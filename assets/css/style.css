@@ -1,0 +1,34 @@
+.half {
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 50px;
+}
+
+.half input {
+	display: block;
+}
+
+#errors {
+	margin-top: 15px;
+}
+
+.submit {
+	margin-top: 15px;
+}
+
+#nav li, #nav h3 {
+	display: inline;
+}
+
+.otherappt {
+	margin-top: 50px;
+}
+
+.hello-name {
+	margin-top: 10px;
+}
+
+.logout {
+	margin-right: 25px;
+	margin-top: 15px;
+}
